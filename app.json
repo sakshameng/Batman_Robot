@@ -7,7 +7,7 @@
          "anime",
          "group",
          "manager",
-         "Saitama"
+         "Batman"
       ],   
    "repository": "https://github.com/MrHonekawa/Batman_Robot",
    "addons": [
@@ -71,7 +71,7 @@
       "WALL_API": {
          "description": "Required Get yours from acoder",
          "required": true,
-         "value": "-xyz"
+         "value": ""
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
